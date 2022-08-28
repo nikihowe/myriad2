@@ -10,6 +10,7 @@ from ..custom_types import Params
 class VanDerPol(FiniteHorizonControlSystem):
   def __init__(self, a=1.):
     """
+    Ahahahahaha
     Driven Van der Pol oscillator,
       from http://casadi.sourceforge.net/v1.8.0/users_guide/html/node8.html
     """
